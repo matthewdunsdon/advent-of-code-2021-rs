@@ -1,0 +1,6 @@
+# Hydrothermal Venture
+## Run
+
+```
+cargo run < input
+```

@@ -1,0 +1,7 @@
+# Sonar Sweep
+
+## Run
+
+```
+cargo run < input
+```

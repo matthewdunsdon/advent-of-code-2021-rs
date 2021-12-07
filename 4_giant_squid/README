@@ -1,0 +1,6 @@
+# Giant Squid
+## Run
+
+```
+cargo run < input
+```

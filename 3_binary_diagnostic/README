@@ -1,0 +1,6 @@
+# Binary Diagnostic
+## Run
+
+```
+cargo run < input
+```

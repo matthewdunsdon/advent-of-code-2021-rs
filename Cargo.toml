@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "1_sonar_sweep",
+    "2_dive",
+    "3_binary_diagnostic",
+    "4_giant_squid",
+    "5_hydrothermal_venture",
+    "6_lanternfish"
+]

@@ -1,0 +1,6 @@
+# Dive
+## Run
+
+```
+cargo run < input
+```
