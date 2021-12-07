@@ -1,0 +1,6 @@
+# The Treachery of Whales
+## Run
+
+```
+cargo run < input
+```
