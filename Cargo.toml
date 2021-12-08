@@ -7,5 +7,6 @@ members = [
     "4_giant_squid",
     "5_hydrothermal_venture",
     "6_lanternfish",
-    "7_the_treachery_of_whales"
+    "7_the_treachery_of_whales",
+    "8_seven_segment_search"
 ]
