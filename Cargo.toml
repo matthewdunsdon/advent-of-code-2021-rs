@@ -9,5 +9,6 @@ members = [
     "6_lanternfish",
     "7_the_treachery_of_whales",
     "8_seven_segment_search",
-    "9_smoke_basin"
+    "9_smoke_basin",
+    "10_syntax_scoring"
 ]
