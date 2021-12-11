@@ -15,6 +15,13 @@ name = "dive"
 version = "0.1.0"
 
 [[package]]
+name = "dumbo_octopus"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
 name = "either"
 version = "1.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
