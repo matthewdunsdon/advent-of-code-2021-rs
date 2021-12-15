@@ -14,5 +14,6 @@ members = [
     "11_dumbo_octopus",
     "12_passage_pathing",
     "13_transparent_origami",
-    "14_extended_polymerization"
+    "14_extended_polymerization",
+    "15_chiton"
 ]
