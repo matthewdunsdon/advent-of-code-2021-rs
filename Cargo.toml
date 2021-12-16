@@ -15,5 +15,6 @@ members = [
     "12_passage_pathing",
     "13_transparent_origami",
     "14_extended_polymerization",
-    "15_chiton"
+    "15_chiton",
+    "16_packet_decoder"
 ]

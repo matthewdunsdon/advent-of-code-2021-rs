@@ -118,6 +118,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a86ed3f5f244b372d6b1a00b72ef7f8876d0bc6a78a4c9985c53614041512063"
 
 [[package]]
+name = "packet_decoder"
+version = "0.1.0"
+
+[[package]]
 name = "passage_pathing"
 version = "0.1.0"
 dependencies = [
