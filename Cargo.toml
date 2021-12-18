@@ -16,5 +16,6 @@ members = [
     "13_transparent_origami",
     "14_extended_polymerization",
     "15_chiton",
-    "16_packet_decoder"
+    "16_packet_decoder",
+    "17_trick_shot"
 ]
