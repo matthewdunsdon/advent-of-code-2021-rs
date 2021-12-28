@@ -43,6 +43,13 @@ name = "depth_measurement"
 version = "0.1.0"
 
 [[package]]
+name = "dirac_dice"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
 name = "dive"
 version = "0.1.0"
 
