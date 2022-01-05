@@ -22,5 +22,6 @@ members = [
     "19_beacon_scanner",
     "20_trench_map",
     "21_dirac_dice",
-    "22_reactor_reboot"
+    "22_reactor_reboot",
+    "23_amphipod"
 ]
